@@ -1,0 +1,6 @@
+Die Übersichtstabelle wird automatisch aus den Verzeichnisnamen der hier angelegten Verzeichnisse generiert.
+Bitte strikt an das Benennungsschema halten, ansonsten funktioniert die Darstellung nicht. Der Vorteil dieser Variante liegt darin, dass man weder die Einträge alle einzeln in die Website eintragen muss, noch eine eigene Datenbank benötigt.
+
+Jedes Verzeichnis stellt ein Konzert dar. Der erste Teil des Namens ist das Datum des Aufführung und ist im Format YYYY-MM-DD angegeben. Danach folgt ein Unterstrich ("_"), der den darauf folgenden Konzertnahmen abtrennt. Der Konzertname darf auch Umlaute beinhalten, aber Sonderzeichen bringen das System durcheinander. Also diese bitte nicht benutzen.
+
+Innerhalb eines jeden Verzeichnisses ist jede MP3-Datei ein Lied. Die Nummer am Anfang dient zur Durchnummerierung und wird mit einem Bindestrich ("-") vom Liednamen abgetrennt. Beim Liednamen gelten die gleichen Einschränkungen wie beim Konzertnamen. Bitte unbedingt darauf achten, dass, falls ein Lied schon einmal in einem anderen Konzert gesungen wurde, die Liednamen genau so geschrieben werden müssen, wie dessen vorheriger Eintrag - also auch die Groß- und Kleinschreibung. Ansonsten erkennt das System nicht, dass es sich um das selbe Lied handelt.
