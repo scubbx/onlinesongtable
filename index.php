@@ -1,3 +1,4 @@
+<?php header('Content-type: text/html; charset=utf-8'); ?>
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="btab.css">
